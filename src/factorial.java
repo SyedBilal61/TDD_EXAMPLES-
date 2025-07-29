@@ -1,9 +1,10 @@
- package factorial.example;
+ 
 
-public class factorial {
+public class Factorial {
 	 public int compute(int n){
-		   return 1;
-		   }
+		 if(n<2)
+			 return 1;
+		 return n*compute(n-1);		   }
 		  
-		   }
-}
+		  }
+
