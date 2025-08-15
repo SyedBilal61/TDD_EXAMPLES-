@@ -13,6 +13,7 @@ public class Factorial {
             System.out.println(" - Maven configured and verified with Java 22");
             System.out.println(" - Maven version and Java runtime working correctly");
             System.out.println(" - Ready to proceed with project build and testing");
+            // Adding some new lines and reading about maven archotypes and practicing these example , still need to be updated
         }
     }
 
