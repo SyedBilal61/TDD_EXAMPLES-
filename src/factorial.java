@@ -18,6 +18,7 @@ public class Factorial {
          // NOTE: Current implementation follows TDD cycle (Red → Green → Refactor)
          // FIXME: Review edge cases for input validation
             // Adding some new lines and reading about maven archotypes and practicing these example , still need to be updated
+           // try to create project through eclips and make maaven projects 
         }
     }
 
